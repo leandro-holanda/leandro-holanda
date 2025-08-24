@@ -44,7 +44,7 @@
 ### 🌐 Onde me encontrar
 
 <p>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN/" target="_blank">
+  <a href="https://www.linkedin.com/in/leandro-holanda-960a4b368/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:seuemail@email.com" target="_blank">
