@@ -31,6 +31,7 @@
 ### Tecnologias & Ferramentas
 
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="40" height="40" alt="python"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40" alt="Django"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" width="40" height="40" alt="Vscode"/>
